@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.48.2"
+  },
+  "name": "automatizacion-mails",
+  "version": "1.0.0",
+  "description": "Mail sending automatization for testing",
+  "main": "EnvioMails_v2.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierrodriguez4/qa-automation.git"
+  },
+  "keywords": [
+    "mail_testing",
+    "mitrol"
+  ],
+  "author": "Enzo Leguizamon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierrodriguez4/qa-automation/issues"
+  },
+  "homepage": "https://github.com/javierrodriguez4/qa-automation#readme"
+}
